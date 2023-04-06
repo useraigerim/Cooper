@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Market Place Flowers"
+		},
+		{
+			"path": "../../../SPA for sister"
+		},
+		{
+			"path": "../../../samostoiatelno"
+		},
+		{
+			"path": "../../../AS for EN"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Frontent"
+	},
+	"extensions": {
+		"recommendations": []
+	}
+}
